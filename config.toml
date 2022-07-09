@@ -1,5 +1,5 @@
-#baseURL = "https://susurant.github.io/kaitlinportfolio/"
-baseURL = "http://example.org/"
+baseURL = "https://susurant.github.io/kaitlinportfolio2/"
+#baseURL = "http://example.org/"
 title        = "Kaitlin Haines Portfolio"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
