@@ -1,0 +1,4 @@
+HugobaseURL = "https://susurant.github.io/kaitlinportfolio/"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+publishDir = "docs"
