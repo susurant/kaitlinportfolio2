@@ -1,4 +1,4 @@
-HugobaseURL = "https://susurant.github.io/kaitlinportfolio/"
+HugobaseURL = "https://susurant.github.io/kaitlinportfolio2/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 publishDir = "docs"
