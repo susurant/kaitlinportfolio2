@@ -1,4 +1,34 @@
-HugobaseURL = "https://susurant.github.io/kaitlinportfolio/"
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+#baseURL = "https://susurant.github.io/kaitlinportfolio/"
+baseURL = "http://example.org/"
+title        = "Kaitlin Haines Portfolio"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
 publishDir = "docs"
+
+
+  # Subtitle for home
+homeSubtitle = "This is an example to show how cool Hugo and GitHub pages are together"
+
+
+#title = "4bes.nl-Hugo-Demo"
+#subtitle = "A simple theme for Hugo"
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "posts"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about"
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "contact"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects"

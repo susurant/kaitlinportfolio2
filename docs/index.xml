@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://susurant.github.io/kaitlinportfolio/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Kaitlin Haines Portfolio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Kaitlin Haines Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://susurant.github.io/kaitlinportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>I have extensive experience using R, Python and SQL for personal and enterprise data analysis, alongside development of dashboards and automated pipelines.
+menu main weight 1
+💫About Me 🔭 I’m currently working on my Data and Cloud Engineering skills.
+🌱 I’m currently learning more about Data Science.
+🤔 I’m looking for help with Exploring New Technologies.
+📫 How to reach me Email - kaitlinmariehaines@gmail.com
+💻Tech Stack {{ figure src=imagesVictor_Hugo-Hunchback.jpg title=Illustration from Victor Hugo et son temps (1881) }}</description>
+    </item>
+    
   </channel>
 </rss>
